@@ -13,5 +13,5 @@ java -jar client.jar
 ```
 Done.
 
-/disconnect - disconnect from server.
-/reconnect - connect to the same server.
+/disconnect - disconnect from server  
+/reconnect - connect to the same server
